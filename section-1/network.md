@@ -101,4 +101,5 @@ There are **5 main types of networks**:
 
 
 
-![Network Topology](./image_1.png)
+![Network Topology](images/image_1.png)
+
