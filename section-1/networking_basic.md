@@ -203,3 +203,35 @@ A **switch** is a network device that **connects multiple devices** within a LAN
 ### Routed Network
 
 ![Routed Network](../images/images_2.png)
+
+
+---
+
+### Dedicated Firewall
+
+A **dedicated firewall** is a **separate hardware device** designed solely to **monitor and control incoming and outgoing network traffic**.  
+- Protects networks from unauthorized access.  
+- Provides better performance and security than software firewalls.
+
+---
+
+### IPs vs IDs
+
+| Feature       | IP (Internet Protocol)                  | ID (Identifier)                        |
+|---------------|----------------------------------------|----------------------------------------|
+| Meaning       | Logical address for devices on a network | Unique identifier for a device/user within a system |
+| Purpose       | Identifies **where a device is located** | Identifies **who or what the device/user is** |
+| Format        | IPv4: 192.168.1.1, IPv6: 2001:db8::1  | Could be alphanumeric (userID, MAC ID) |
+| Scope         | Networking / Internet                  | Local system / application             |
+
+---
+
+### Wi-Fi (Wireless Fidelity)
+
+**Wi-Fi** is a technology that allows devices to **connect to a network wirelessly** using radio waves.  
+- Common in homes, offices, and public spaces.  
+- Connects devices to the internet without cables.  
+
+**Figure: Wi-Fi Network**  
+
+![Wi-Fi Network](../images/image_3.png)
